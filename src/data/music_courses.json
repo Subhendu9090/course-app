@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Python Programming",
+        "slug": "introduction-to-python-programming",
+        "description": "Learn the fundamentals of Python programming language.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "is_featured": true,
+        "image": "https://example.com/python_course_image.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Web Development with JavaScript",
+        "slug": "web-development-with-javascript",
+        "description": "Master web development using JavaScript.",
+        "price": 59.99,
+        "instructor": "Jane Doe",
+        "is_featured": false,
+        "image": "https://example.com/javascript_course_image.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Data Science and Machine Learning",
+        "slug": "data-science-and-machine-learning",
+        "description": "Explore the world of data science and machine learning.",
+        "price": 79.99,
+        "instructor": "Alex Johnson",
+        "is_featured": true,
+        "image": "https://example.com/datascience_course_image.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Android App Development",
+        "slug": "android-app-development",
+        "description": "Build innovative Android apps with this comprehensive course.",
+        "price": 69.99,
+        "instructor": "Michael Brown",
+        "is_featured": false,
+        "image": "https://example.com/android_course_image.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Data Structures and Algorithms",
+        "slug": "introduction-to-data-structures-and-algorithms",
+        "description": "Understand essential data structures and algorithms concepts.",
+        "price": 39.99,
+        "instructor": "Emily White",
+        "is_featured": true,
+        "image": "https://example.com/datastructures_course_image.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Graphic Design Fundamentals",
+        "slug": "graphic-design-fundamentals",
+        "description": "Learn the basics of graphic design and create stunning visuals.",
+        "price": 49.99,
+        "instructor": "David Lee",
+        "is_featured": false,
+        "image": "https://example.com/graphicdesign_course_image.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Artificial Intelligence and Robotics",
+        "slug": "artificial-intelligence-and-robotics",
+        "description": "Dive into the exciting field of artificial intelligence and robotics.",
+        "price": 89.99,
+        "instructor": "Sophia Garcia",
+        "is_featured": true,
+        "image": "https://example.com/ai_robotics_course_image.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Photography Masterclass",
+        "slug": "photography-masterclass",
+        "description": "Unlock your creativity with professional photography techniques.",
+        "price": 59.99,
+        "instructor": "Robert Johnson",
+        "is_featured": false,
+        "image": "https://example.com/photography_course_image.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Financial Planning and Investment Strategies",
+        "slug": "financial-planning-and-investment-strategies",
+        "description": "Learn how to manage your finances and make smart investments.",
+        "price": 79.99,
+        "instructor": "Daniel Smith",
+        "is_featured": true,
+        "image": "https://example.com/financialplanning_course_image.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Creative Writing Workshop",
+        "slug": "creative-writing-workshop",
+        "description": "Enhance your writing skills and unleash your creativity.",
+        "price": 44.99,
+        "instructor": "Emma Taylor",
+        "is_featured": false,
+        "image": "https://example.com/creativewriting_course_image.jpg"
+      }
+    ]
+  }
+  
