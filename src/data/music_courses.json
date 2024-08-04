@@ -8,7 +8,7 @@
         "price": 49.99,
         "instructor": "John Smith",
         "is_featured": true,
-        "image": "https://example.com/python_course_image.jpg"
+        "image": "https://wallpaperaccess.com/full/1162936.jpg"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 59.99,
         "instructor": "Jane Doe",
         "is_featured": false,
-        "image": "https://example.com/javascript_course_image.jpg"
+        "image": "https://wallpaperaccess.com/full/167408.jpg"
       },
       {
         "id": 3,
